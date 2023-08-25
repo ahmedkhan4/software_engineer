@@ -1,0 +1,23 @@
+/* Navbar */
+
+.navbar{
+    border: 1px solid black;
+}
+ul,li{
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+/* main-section */
+.main_section{
+    height: auto;
+}
+/* footer */
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
